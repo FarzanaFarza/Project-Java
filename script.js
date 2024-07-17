@@ -1,4 +1,4 @@
- /* window.addEventListener("load", function () {
+  window.addEventListener("load", function () {
     fetch("https://fakestoreapi.com/products")
         .then((response) => {
             return response.json();
@@ -7,7 +7,7 @@
         console.log(responseData); 
     });
       
-});*/
+});
 const data = [
         {
           "id": 1,
